@@ -1,0 +1,13 @@
+{
+  "$GMScript":"v1",
+  "%Name":"searchLightScript",
+  "isCompatibility":false,
+  "isDnD":false,
+  "name":"searchLightScript",
+  "parent":{
+    "name":"Canoodlers",
+    "path":"Canoodlers.yyp",
+  },
+  "resourceType":"GMScript",
+  "resourceVersion":"2.0",
+}
